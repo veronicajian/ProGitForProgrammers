@@ -1,1 +1,0 @@
-def generate_random_code():

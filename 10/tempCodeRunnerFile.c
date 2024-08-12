@@ -1,1 +1,0 @@
-BinomialNode *next = current->sibling;
